@@ -42,7 +42,7 @@
     "apollo-server": "2.11.0",
     "apollo-server-micro": "2.11.0",
     "aws-sdk": "2.642.0",
-    "axios": "0.19.2",
+    "axios": "0.21.2",
     "b64-to-blob": "1.2.19",
     "babel-plugin-transform-typescript-metadata": "0.3.0",
     "class-validator": "0.11.1",
